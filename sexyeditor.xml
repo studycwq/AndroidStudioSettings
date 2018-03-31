@@ -1,0 +1,16 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array />
+          </option>
+          <option name="fixedPosition" value="false" />
+          <option name="position" value="0" />
+          <option name="positionOffset" value="0" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
