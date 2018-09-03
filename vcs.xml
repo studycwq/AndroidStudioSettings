@@ -142,6 +142,10 @@
           <option name="url" value="https://github.com/yrickwong/Angel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/studycwq/NetHacker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\will\StudioProjects" />
