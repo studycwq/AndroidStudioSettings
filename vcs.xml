@@ -186,6 +186,10 @@
           <option name="url" value="https://team.hboxs.com/source/mianhuatang-android/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/licheedev/Android-SerialPort-API.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\will\StudioProjects" />
