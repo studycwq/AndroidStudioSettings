@@ -190,6 +190,10 @@
           <option name="url" value="https://github.com/licheedev/Android-SerialPort-API.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Deemonser/AndroidSerialPort.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\will\StudioProjects" />
