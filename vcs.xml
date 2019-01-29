@@ -194,8 +194,12 @@
           <option name="url" value="https://github.com/Deemonser/AndroidSerialPort.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/studycwq/PureNeteaseCloudMusic-Xposed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\will\AndroidStudioProjects" />
   </component>
 </application>
