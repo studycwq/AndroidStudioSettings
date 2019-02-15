@@ -206,8 +206,12 @@
           <option name="url" value="https://team.hboxs.com/source/gaomi-merchant-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://team.hboxs.com/source/baolusha-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\will\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\will\StudioProjects" />
   </component>
 </application>
