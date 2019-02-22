@@ -194,6 +194,10 @@
           <option name="url" value="https://github.com/Deemonser/AndroidSerialPort.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/androidtv-Leanback.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\will\StudioProjects" />
