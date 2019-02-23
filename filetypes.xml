@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="md" type="Native" />
-      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="md" type="Native" />
+      <mapping pattern="pack_info" type="PLAIN_TEXT" />
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
