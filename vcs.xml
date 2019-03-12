@@ -195,7 +195,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/androidtv-Leanback.git" />
+          <option name="url" value="https://github.com/studycwq/PureNeteaseCloudMusic-Xposed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Yang-Shuang/Tvlauncher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://team.hboxs.com/source/gaomi-merchant-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://team.hboxs.com/source/baolusha-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
