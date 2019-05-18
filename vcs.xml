@@ -214,6 +214,10 @@
           <option name="url" value="https://gitee.com/studycwq/MaHuaTV.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/easy_wallet/dcloud_android_base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\will\StudioProjects" />
