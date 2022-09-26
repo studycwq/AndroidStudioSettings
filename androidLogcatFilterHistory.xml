@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ActivityHolder" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ActivityHolder" />
         <option value="package:mine " />
+        <option value="package:mine ActivityHolder" />
         <option value="package:mine OpenVipActivity" />
         <option value="package:mine WebViewFragment" />
         <option value="RongLog-Push" />
