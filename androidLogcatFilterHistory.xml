@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HomeVideo" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine Added track" />
+        <option value="package:mine RongLog-PUSH" />
         <option value="package:mine HomeVideo" />
         <option value="package:mine 14:08:02.1" />
         <option value="package:mine view data 0" />
-        <option value="package:mine " />
         <option value="package:mine ActivityHolder" />
         <option value="package:mine OpenVipActivity" />
         <option value="package:mine WebViewFragment" />
