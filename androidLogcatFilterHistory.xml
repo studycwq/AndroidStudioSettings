@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine videoPage.memberMongos" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine videoPage.memberMongos" />
         <option value="package:mine " />
+        <option value="package:mine videoPage.memberMongos" />
         <option value="package:mine Added track" />
         <option value="package:mine RongLog-PUSH" />
         <option value="package:mine HomeVideo" />
