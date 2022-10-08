@@ -3,28 +3,28 @@
     <property name="created">2022-02-14T11:42:22</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.21</property>
-    <property name="modified">2022-05-30T13:20:30</property>
+    <property name="modified">2022-09-16T11:36:51</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="ffffe8" />
+        <option name="BACKGROUND" value="f4f5fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fff0" />
+        <option name="BACKGROUND" value="f0fbf7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff0ff" />
+        <option name="BACKGROUND" value="f9fcf5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="eafdfd" />
+        <option name="BACKGROUND" value="fff8f3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
