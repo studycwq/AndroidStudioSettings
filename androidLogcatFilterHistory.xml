@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine sex=" />
         <option value="package:mine " />
         <option value="package:mine videoPage.memberMongos" />
         <option value="package:mine Added track" />
@@ -18,7 +19,6 @@
         <option value="RongLog" />
         <option value="tag:Rong" />
         <option value="level:warn " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
