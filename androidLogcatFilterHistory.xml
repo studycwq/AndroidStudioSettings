@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine video-list" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine video-list" />
         <option value="package:mine " />
+        <option value="package:mine list" />
+        <option value="package:mine list: " />
         <option value="package:mine level:error " />
         <option value="package:mine 融云链接状态改为" />
         <option value="package:mine" />
@@ -20,9 +23,6 @@
         <option value="package:mine WebViewFragment" />
         <option value="RongLog-Push" />
         <option value="Rong" />
-        <option value="RongLog" />
-        <option value="tag:Rong" />
-        <option value="level:warn " />
       </list>
     </option>
   </component>
