@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine HomeFragment" />
         <option value="package:mine video-list" />
         <option value="package:mine LOADING" />
         <option value="package:mine list" />
@@ -22,7 +23,6 @@
         <option value="package:mine ActivityHolder" />
         <option value="package:mine OpenVipActivity" />
         <option value="package:mine WebViewFragment" />
-        <option value="RongLog-Push" />
       </list>
     </option>
   </component>
