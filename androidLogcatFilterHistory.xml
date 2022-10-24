@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine getSimpleSceneAll" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine getSimpleSceneAll" />
         <option value="package:mine " />
+        <option value="package:mine 内容: " />
+        <option value="package:mine getSimpleSceneAll" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:UploadDynamicActivity" />
         <option value="package:mine location -&gt;" />
@@ -22,7 +23,6 @@
         <option value="package:mine Added track" />
         <option value="package:mine RongLog-PUSH" />
         <option value="package:mine HomeVideo" />
-        <option value="package:mine 14:08:02.1" />
       </list>
     </option>
   </component>
