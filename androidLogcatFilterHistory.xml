@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine dynamics is null" />
         <option value="package:mine 内容: " />
         <option value="package:mine getSimpleSceneAll" />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine videoPage.memberMongos" />
         <option value="package:mine Added track" />
         <option value="package:mine RongLog-PUSH" />
-        <option value="package:mine HomeVideo" />
       </list>
     </option>
   </component>
