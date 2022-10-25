@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="package:mine dynamics is null" />
         <option value="package:mine 内容: " />
         <option value="package:mine getSimpleSceneAll" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:UploadDynamicActivity" />
         <option value="package:mine location -&gt;" />
         <option value="package:mine tag:HomeMenuDialog" />
