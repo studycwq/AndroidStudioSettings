@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine resultCode" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine resultCode" />
+        <option value="package:mine 233 -&gt;" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine dynamics is null" />
@@ -21,8 +23,6 @@
         <option value="package:mine update list: " />
         <option value="package:mine sex=" />
         <option value="package:mine videoPage.memberMongos" />
-        <option value="package:mine Added track" />
-        <option value="package:mine RongLog-PUSH" />
       </list>
     </option>
   </component>
