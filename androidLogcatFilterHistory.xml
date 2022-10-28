@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine result:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine result:" />
         <option value="package:mine " />
         <option value="package:mine sense -&gt;" />
         <option value="package:mine resultCode" />
@@ -22,7 +23,6 @@
         <option value="package:mine 融云链接状态改为" />
         <option value="package:mine" />
         <option value="package:mine update list: " />
-        <option value="package:mine sex=" />
       </list>
     </option>
   </component>
