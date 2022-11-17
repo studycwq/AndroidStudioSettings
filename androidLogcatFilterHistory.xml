@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 个性签名更新" />
+    <option name="mostRecentlyUsed" value="package:mine 广告item高度" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 个性签名更新" />
+        <option value="package:mine 广告item高度" />
         <option value="package:mine " />
+        <option value="package:mine 个性签名更新" />
         <option value="package:mine ad-array" />
         <option value="package:mine result:" />
         <option value="package:mine sense -&gt;" />
@@ -22,7 +23,6 @@
         <option value="package:mine LOADING" />
         <option value="package:mine list" />
         <option value="package:mine list: " />
-        <option value="package:mine 融云链接状态改为" />
       </list>
     </option>
   </component>
