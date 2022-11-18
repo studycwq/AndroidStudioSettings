@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine  quickBack" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  quickBack" />
         <option value="package:mine " />
         <option value="package:mine 广告item高度" />
         <option value="package:mine 个性签名更新" />
@@ -22,7 +23,6 @@
         <option value="package:mine video-list" />
         <option value="package:mine LOADING" />
         <option value="package:mine list" />
-        <option value="package:mine list: " />
       </list>
     </option>
   </component>
