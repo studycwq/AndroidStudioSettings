@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:debug " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine 165027205426365206" />
         <option value="level:debug " />
         <option value="level:warn " />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine update size" />
         <option value="package:mine qrcode" />
@@ -22,7 +23,6 @@
         <option value="package:mine 233 -&gt;" />
         <option value="package:mine level:error " />
         <option value="package:mine dynamics is null" />
-        <option value="package:mine 内容: " />
       </list>
     </option>
   </component>
