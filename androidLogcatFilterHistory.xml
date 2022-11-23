@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine update size" />
         <option value="package:mine qrcode" />
@@ -10,7 +12,6 @@
         <option value="package:mine  11:26:10.9" />
         <option value="package:mine  mbIndexVideoSuggest" />
         <option value="package:mine  quickBack" />
-        <option value="package:mine " />
         <option value="package:mine 广告item高度" />
         <option value="package:mine 个性签名更新" />
         <option value="package:mine ad-array" />
@@ -22,7 +23,6 @@
         <option value="package:mine dynamics is null" />
         <option value="package:mine 内容: " />
         <option value="package:mine getSimpleSceneAll" />
-        <option value="package:mine tag:UploadDynamicActivity" />
       </list>
     </option>
   </component>
