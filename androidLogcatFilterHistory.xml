@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine update size" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine update size" />
         <option value="package:mine qrcode" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:mine 内容: " />
         <option value="package:mine getSimpleSceneAll" />
         <option value="package:mine tag:UploadDynamicActivity" />
-        <option value="package:mine location -&gt;" />
       </list>
     </option>
   </component>
