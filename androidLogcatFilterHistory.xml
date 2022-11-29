@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine VideoPreviewFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine VideoPreviewFragment" />
+        <option value="package:mine VideoSize" />
+        <option value="package:mine Image size" />
         <option value="package:mine " />
         <option value="package:mine 165027205426365206" />
         <option value="level:debug " />
@@ -20,9 +23,6 @@
         <option value="package:mine result:" />
         <option value="package:mine sense -&gt;" />
         <option value="package:mine resultCode" />
-        <option value="package:mine 233 -&gt;" />
-        <option value="package:mine level:error " />
-        <option value="package:mine dynamics is null" />
       </list>
     </option>
   </component>
