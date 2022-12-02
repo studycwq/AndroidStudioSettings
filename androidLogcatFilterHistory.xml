@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine VideoPreviewFragment" />
+    <option name="mostRecentlyUsed" value="package:mine  copy " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  copy " />
         <option value="package:mine VideoPreviewFragment" />
         <option value="package:mine VideoSize" />
         <option value="package:mine Image size" />
@@ -22,7 +23,6 @@
         <option value="package:mine ad-array" />
         <option value="package:mine result:" />
         <option value="package:mine sense -&gt;" />
-        <option value="package:mine resultCode" />
       </list>
     </option>
   </component>
